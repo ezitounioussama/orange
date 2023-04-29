@@ -1,13 +1,20 @@
 const students = [
   {
     id: 1,
-    name: "John Doe",
-    picture: "John Doe",
-    portfolio: "https://example.com/portfolio",
+    name: "Oussama Ezitouni",
+    picture: "/students/ezitouniOussama.jpg",
+    portfolio: "https://oussama-ezitouni.netlify.app/",
   },
   {
     id: 2,
+    name: "azeddine ait akat",
+    picture: "/students/unkown.jpeg",
+    portfolio: "https://example.com/portfolio",
+  },
+  {
+    id: 3,
     name: "John ddd",
+    picture: "/students/unkown.jpeg",
     portfolio: "https://example.com/portfolio",
   },
 ];
