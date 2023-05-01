@@ -1,11 +1,12 @@
 import "./App.css";
 import students from "./students";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 function App() {
   return (
-    <>
+    <div className="min-h-screen flex flex-col">
       <Navbar />
-      <div className="flex justify-center items-center flex-wrap">
+      <div className="flex justify-center items-center flex-wrap mb-10">
         {students.map((student) => (
           <div
             key={student.id}
@@ -47,7 +48,8 @@ function App() {
           </div>
         ))}
       </div>
-    </>
+      <Footer />
+    </div>
   );
 }
 

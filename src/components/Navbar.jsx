@@ -1,5 +1,5 @@
 import logo from "../assets/logo.png";
-const navbar = () => {
+const Navbar = () => {
   return (
     <div>
       <header aria-label="Page Header" className="bg-black">
@@ -42,4 +42,4 @@ const navbar = () => {
   );
 };
 
-export default navbar;
+export default Navbar;
