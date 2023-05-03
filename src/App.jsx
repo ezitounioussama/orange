@@ -6,11 +6,11 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col">
       <Navbar />
-      <div className="flex justify-center items-center flex-wrap mb-10">
+      <div className="flex justify-center items-center flex-wrap mb-10 mx-2">
         {students.map((student) => (
           <div
             key={student.id}
-            className="max-w-xl mx-4 sm:max-w-sm md:max-w-sm lg:max-w-sm xl:max-w-sm sm:mx-auto md:mx-auto lg:mx-auto xl:mx-auto mt-16 bg-black shadow-xl rounded-lg text-gray-900"
+            className="max-w-xl mx-4 sm:max-w-sm md:max-w-sm lg:max-w-sm xl:max-w-sm sm:mx-auto md:mx-auto lg:mx-auto xl:mx-auto mt-16 bg-black shadow-2xl rounded-lg text-gray-900"
           >
             <div className="rounded-t-lg h-32 overflow-hidden">
               <img
