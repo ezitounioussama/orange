@@ -45,7 +45,7 @@ const students = [
     id: 8,
     name: "ayoub saghro",
     picture: "/students/saghro.jpeg",
-    portfolio: "https://saghro.github.io/nouvel-portfolio/",
+    portfolio: "https://ayoub-saghro.netlify.app/",
   },
   {
     id: 9,
