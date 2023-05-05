@@ -78,6 +78,12 @@ const students = [
     picture: "/students/ayoub.jpeg",
     portfolio: "https://ayoub012345.github.io/my-portfolio/home-two.html",
   },
+  {
+    id: 14,
+    name: "youssef lakrim",
+    picture: "/students/youssef.jpeg",
+    portfolio: "https://youssef-lakrim.netlify.app/",
+  },
 ];
 
 export default students;
