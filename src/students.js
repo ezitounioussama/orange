@@ -80,6 +80,12 @@ const students = [
   },
   {
     id: 14,
+    name: "Issam El Jaouhari",
+    picture: "/students/issam.jpeg",
+    portfolio: "https://issameljaouhari.github.io/Izzy/",
+  },
+  {
+    id: 15,
     name: "youssef lakrim",
     picture: "/students/youssef.jpeg",
     portfolio: "https://youssef-lakrim.netlify.app/",
