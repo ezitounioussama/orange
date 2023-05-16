@@ -15,7 +15,8 @@ function App() {
             <div className="rounded-t-lg h-32 overflow-hidden">
               <img
                 className="w-full"
-                src="https://casablancafinancecity.com/wp-content/uploads/2021/11/orange-digital-center-1.jpeg"
+                // src="https://casablancafinancecity.com/wp-content/uploads/2021/11/orange-digital-center-1.jpeg"
+                src="public/dev.jpeg"
                 alt="cover"
               />
             </div>

@@ -81,7 +81,7 @@ const students = [
   {
     id: 14,
     name: "Issam El Jaouhari",
-    picture: "/students/issam.jpeg",
+    picture: "/students/issam.jpg",
     portfolio: "https://issameljaouhari.github.io/Izzy/",
   },
   {
