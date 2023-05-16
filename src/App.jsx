@@ -16,7 +16,7 @@ function App() {
               <img
                 className="w-full"
                 // src="https://casablancafinancecity.com/wp-content/uploads/2021/11/orange-digital-center-1.jpeg"
-                src="public/dev.jpeg"
+                src="/public/dev.jpeg"
                 alt="cover"
               />
             </div>
