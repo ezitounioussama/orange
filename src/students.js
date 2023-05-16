@@ -58,12 +58,12 @@ const students = [
     id: 10,
     name: "fatima zahra faryat",
     picture: "/students/faryat.png",
-    portfolio: "https://fatimazahra199.github.io/Portfolio/",
+    portfolio: "https://fatima-zahra-faryat.onrender.com/",
   },
   {
     id: 11,
     name: "mohamed iguinfr",
-    picture: "/students/ignfr.jpeg",
+    picture: "/students/ignifr.jpg",
     portfolio: "https://mohamediguinfr.netlify.app/",
   },
   {
