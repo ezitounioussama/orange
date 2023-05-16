@@ -2,7 +2,7 @@ const students = [
   {
     id: 1,
     name: "Oussama Ezitouni",
-    picture: "/students/ezitouniOussama.jpg",
+    picture: "/students/ezitouni.jpg",
     portfolio: "https://oussama-ezitouni.vercel.app/",
   },
   {
