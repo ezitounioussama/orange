@@ -2,6 +2,7 @@ import "./App.css";
 import students from "./students";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import devBackground from "../public/dev.jpeg";
 function App() {
   return (
     <div className="min-h-screen flex flex-col">
@@ -16,7 +17,7 @@ function App() {
               <img
                 className="w-full"
                 // src="https://casablancafinancecity.com/wp-content/uploads/2021/11/orange-digital-center-1.jpeg"
-                src="/public/dev.jpeg"
+                src={devBackground}
                 alt="cover"
               />
             </div>
